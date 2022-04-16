@@ -1,6 +1,8 @@
 # Networks
-Some codes for problems in analysis of networks
+Some codes for problems in analysis of networks.
+
 Instructor: Prof Chrysafis Vogiatzis, UIUC
+
 Course: IE532 (Analysis of Network Data)
 
 ### Requirments:
